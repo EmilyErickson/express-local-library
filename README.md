@@ -17,4 +17,3 @@ PUG template library
 # Live Page
 
 This project is hosted on Glitch.
-Live page at: https://sandy-thoracic-trilby.glitch.me/
