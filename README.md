@@ -1,7 +1,7 @@
 # Express Local Library
 
 This project was build by following the MDN "Local Library" Express tutorial.
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website
+<https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website>
 
 It was build as part of the Odin Project's NodeJS Course.
 
@@ -16,5 +16,5 @@ PUG template library
 
 # Live Page
 
-This project is hosted on Railway.
-Live page here: https://express-local-library-production-773e.up.railway.app/catalog
+This project is hosted on Glitch.
+Live page here: <https://sparkling-amber-aragon.glitch.me/catalog>
